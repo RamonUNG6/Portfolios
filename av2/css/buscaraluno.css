@@ -1,0 +1,31 @@
+body{
+    background: rgb(22,12,97);
+    background: linear-gradient(90deg, rgba(22,12,97,1) 0%, rgba(2,2,74,1) 50%, rgba(24,12,99,1) 100%);
+}
+#email {
+    width: 300px;
+}
+#hab {
+    width: 35px;
+}
+h1{
+    margin-left: 70px;
+    margin-top: 30px;
+    font-family: verdana;
+    color:white;
+}
+.form{
+    margin-left: 500px;
+}
+p{
+    position: relative;
+    top: 33px;
+    left: 300px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#logo{
+    position: fixed;
+    right: 50px;
+    top: 150px;
+}

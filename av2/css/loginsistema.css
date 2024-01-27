@@ -1,0 +1,30 @@
+body{
+    background: rgb(22,12,97);
+    background: linear-gradient(90deg, rgba(22,12,97,1) 0%, rgba(2,2,74,1) 50%, rgba(24,12,99,1) 100%);
+}
+.login {
+    margin-top: 450px;
+    text-align: center;
+    color: white;
+}
+input[type=text]{
+    border-radius: 7px;
+    box-shadow: 2px 2px 5px #272626;
+    background-color: #bbc1fa;
+}
+input[type=password]{
+    border-radius: 7px;
+    box-shadow: 2px 2px 5px #272626;
+    background-color: #bbc1fa;
+}
+input[type=submit]{
+    border-radius: 7px;
+    box-shadow: 2px 2px 5px #272626;
+    background-color: #4e5fff;
+    color: aliceblue;
+}
+.logo{
+    position: absolute;
+    left: 510px;
+    bottom: 290px;
+}

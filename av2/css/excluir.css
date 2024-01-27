@@ -1,0 +1,17 @@
+body{
+    background: rgb(22,12,97);
+    background: linear-gradient(90deg, rgba(22,12,97,1) 0%, rgba(2,2,74,1) 50%, rgba(24,12,99,1) 100%);
+}
+p{
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 400px;
+    left: 700px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo{
+    position: absolute;
+    top: 50px;
+    right: 415px;
+}

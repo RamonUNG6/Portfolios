@@ -1,0 +1,89 @@
+input[type=text] {
+    border-radius: 7px;
+    box-shadow: 2px 2px 5px #272626;
+    background-color: #97a1ff;
+}
+input[type=email]{
+    width: 250px;
+    border-radius: 7px;
+    box-shadow: 2px 2px 5px #272626;
+    background-color: #97a1ff;
+}
+input[type=date]{
+    border-radius: 7px;
+    box-shadow: 2px 2px 5px #272626;
+    background-color: #97a1ff;
+}
+input[type=number]{
+    border-radius: 7px;
+    box-shadow: 2px 2px 5px #272626;
+    background-color: #97a1ff;
+}
+select{
+    border-radius: 7px;
+    box-shadow: 2px 2px 5px #272626;
+    background-color: #97a1ff;
+}
+.inputhab{
+    border-radius: 7px;
+    box-shadow: 2px 2px 5px #272626;
+}
+
+body {
+    background: rgb(22,12,97);
+    background: linear-gradient(90deg, rgba(22,12,97,1) 0%, rgba(2,2,74,1) 50%, rgba(24,12,99,1) 100%);
+}
+h2{
+    color: white;
+    text-align: center;
+}
+form{
+    color: white;
+    margin-left: 100px;
+    background-color: rgba(127, 157, 255, 0.897);
+    width: 400px;
+    border-radius: 7px;
+    background: rgb(16,34,61);
+    background: linear-gradient(0deg, rgba(16,34,61,1) 0%, rgba(25,44,61,1) 33%, rgba(2,33,71,1) 46%, rgba(15,50,101,1) 74%, rgba(30,30,89,1) 100%);
+}
+form p{
+    margin-left: 50px;
+}
+h4 {
+    color:white;
+    margin-left: 130px;
+}
+label {
+    margin-left: 20px;
+}
+.logo {
+    position: absolute;
+    float: right;
+    width: 50%;
+    height: auto;
+    right: 80px;
+}
+.hab {
+    position: absolute;
+    left: 350px;
+    bottom: 30px;
+    width: 150px;
+    height: auto;
+}
+input[type=submit]{
+    border-radius: 7px;
+    box-shadow: 2px 2px 5px #272626;
+    background-color: #4e5fff;
+    color: aliceblue;
+    margin-left: 150px;
+    margin-bottom: 10px;
+    width: 100px;
+    height: 30px;
+    font-size: 15px;
+}
+h1{
+    margin-left: 70px;
+    margin-top: 30px;
+    font-family: verdana;
+    color:white;
+}
